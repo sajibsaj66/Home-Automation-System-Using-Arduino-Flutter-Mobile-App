@@ -23,3 +23,7 @@ RGB LED Lights: Provide customizable lighting based on user preferences.
 Mobile Application: Acts as the primary user interface for controlling all aspects of the system.
 
 By integrating these components, our system offers a comprehensive solution for smart home automation, improving quality of life while ensuring energy efficiency and adaptability.
+
+
+https://github.com/user-attachments/assets/1d4d3cff-53bb-49e9-91f5-20e6fae2ac27
+
